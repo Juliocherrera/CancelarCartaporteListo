@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programa>
+	<Viaje>
+		<Fecha>18/03/2022 10:00:00</Fecha>
+		<Transporte>0000178942</Transporte>
+		<Operador>JUAN MANUEL PEREZ LEON</Operador>
+		<Remolque>53738</Remolque>
+		<Remolque2></Remolque2>
+		<Dolly></Dolly>
+		<Origen>0125</Origen>
+		<Origen_Descripcion>0125 Bajio Distribución , Km. 13.7 Carretera Libre Querétaro Celaya , , , GTO , Apaseo el Alto, Guanajuato , Col. San Isidro del Llanito ,Cp: 38513</Origen_Descripcion>
+		<Destino>0145</Destino>
+		<Destino_Descripcion>0145 Suc. Ciudad Juarez , v. Plutarco Eías Calles , 2360 , , CHI , Ciudad Juarez, Chihuahua , Col. Benito Juárez ,Cp: 32390</Destino_Descripcion>
+		<Kilometros_Totales>3267.0</Kilometros_Totales>
+		<Rutas>
+			<Ruta>
+				<Origen>0125</Origen>
+				<Origen_Descripcion>0125 Bajio Distribución , Km. 13.7 Carretera Libre Querétaro Celaya , , , GTO , Apaseo el Alto, Guanajuato , Col. San Isidro del Llanito ,Cp: 38513</Origen_Descripcion>
+				<Destino>0135</Destino>
+				<Destino_Descripcion>0135 Suc. Chihuahua F.M. , Calle 132 A , Bod 6 7 8 , , CHI , Chihuahua, Chihuahua , Col. Labor de Terrazas , Cp: 31220</Destino_Descripcion>
+				<Distancia>1281.0</Distancia>
+				<Mercancias>
+					<Mercancia>
+						<Cantidad>167.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211707</Producto>
+						<Descripcion>BARNICES</Descripcion>
+						<Peso_Bruto>526.0</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>3377.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211803</Producto>
+						<Descripcion>DILUYENTES PARA PINTURAS Y BARNICES </Descripcion>
+						<Peso_Bruto>3700.0</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>1108.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211706</Producto>
+						<Descripcion>TINTURAS</Descripcion>
+						<Peso_Bruto>1438.240</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>80.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211501</Producto>
+						<Descripcion>PINTURAS DE ESMALTE</Descripcion>
+						<Peso_Bruto>849.688</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>118.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211500</Producto>
+						<Descripcion>PINTURAS Y TAPA POROS</Descripcion>
+						<Peso_Bruto>87.832</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>85.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211502</Producto>
+						<Descripcion>PINTURAS DE AGUA</Descripcion>
+						<Peso_Bruto>303.507</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>5.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31201610</Producto>
+						<Descripcion>PEGAMENTOS</Descripcion>
+						<Peso_Bruto>95.0</Peso_Bruto>
+					</Mercancia>
+				</Mercancias>
+			</Ruta>
+			<Ruta>
+				<Origen>0135</Origen>
+				<Origen_Descripcion>0135 Suc. Chihuahua F.M. , Calle 132 A , Bod 6 7 8 , , CHI , Chihuahua, Chihuahua , Col. Labor de Terrazas ,Cp: 31220</Origen_Descripcion>
+				<Destino>0145</Destino>
+				<Destino_Descripcion>0145 Suc. Ciudad Juarez , v. Plutarco Eías Calles , 2360 , , CHI , Ciudad Juarez, Chihuahua , Col. Benito Juárez , Cp: 32390</Destino_Descripcion>
+				<Distancia>353.0</Distancia>
+				<Mercancias>
+					<Mercancia>
+						<Cantidad>276.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211900</Producto>
+						<Descripcion>APLICADORES DE PINTURA Y ACCESORIOS PARA</Descripcion>
+						<Peso_Bruto>372.696</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>1126.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211502</Producto>
+						<Descripcion>PINTURAS DE AGUA</Descripcion>
+						<Peso_Bruto>13650.079</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>1242.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211500</Producto>
+						<Descripcion>PINTURAS Y TAPA POROS</Descripcion>
+						<Peso_Bruto>2295.012</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>969.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211501</Producto>
+						<Descripcion>PINTURAS DE ESMALTE</Descripcion>
+						<Peso_Bruto>2963.110</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>1881.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211707</Producto>
+						<Descripcion>BARNICES</Descripcion>
+						<Peso_Bruto>4078.422</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>1675.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211706</Producto>
+						<Descripcion>TINTURAS</Descripcion>
+						<Peso_Bruto>1470.488</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>5754.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31211803</Producto>
+						<Descripcion>DILUYENTES PARA PINTURAS Y BARNICES</Descripcion>
+						<Peso_Bruto>5763.870</Peso_Bruto>
+					</Mercancia>
+					<Mercancia>
+						<Cantidad>52.0</Cantidad>
+						<Unidad>H87</Unidad>
+						<Producto>31201610</Producto>
+						<Descripcion>PEGAMENTOS </Descripcion>
+						<Peso_Bruto>45.0</Peso_Bruto>
+					</Mercancia>
+				</Mercancias>
+			</Ruta>
+			<Ruta>
+				<Origen>0145</Origen>
+				<Origen_Descripcion>0145 Suc. Ciudad Juarez , v. Plutarco Eías Calles , 2360 , , CHI , Ciudad Juarez, Chihuahua , Col. Benito Juárez ,Cp: 32390</Origen_Descripcion>
+				<Destino>0125</Destino>
+				<Destino_Descripcion>0125 Bajio Distribución , Km. 13.7 Carretera Libre Querétaro Celaya , , , GTO , Apaseo el Alto, Guanajuato , Col. San Isidro del Llanito , Cp: 38513</Destino_Descripcion>
+				<Distancia>1633.0</Distancia>
+				<Mercancias></Mercancias>
+			</Ruta>
+		</Rutas>
+	</Viaje>
+</Programa>

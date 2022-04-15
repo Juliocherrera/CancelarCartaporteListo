@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\bin\Release\net6.0\CapaEntidad.deps.json
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\bin\Release\net6.0\CapaEntidad.dll
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\bin\Release\net6.0\CapaEntidad.pdb
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.dll
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\refint\CapaEntidad.dll
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\CapaEntidad.pdb
+C:\Users\Lenovo\source\repos\TdrTiSystems\CapaEntidad\obj\Release\net6.0\ref\CapaEntidad.dll

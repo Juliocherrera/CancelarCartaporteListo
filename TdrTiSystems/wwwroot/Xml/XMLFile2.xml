@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Customers>
+	<Customer Id ="1">
+		<Name>John Hammond</Name>
+		<Country>United States</Country>
+	</Customer>
+	<Customer Id = "2">
+		<Name>Mudassar Khan</Name>
+		<Country>India</Country>
+	</Customer>
+	<Customer Id ="3">
+		<Name>Suzanne Mathews</Name>
+		<Country>France</Country>
+	</Customer>
+	<Customer Id ="4">
+		<Name>Robert Schidner</Name>
+		<Country>Russia</Country>
+	</Customer>
+</Customers>

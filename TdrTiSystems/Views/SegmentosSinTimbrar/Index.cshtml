@@ -1,0 +1,36 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/datatable.css" />
+
+<h1>Cartas porte Timbradas/Sin Timbrar</h1>
+<div class="input-group mb-3">
+   
+            <div class="col-md-6 mb-3 p-2">
+                <label><b>Buscar por Segmento</b></label>
+                 <input type="text" class="form-control" placeholder="Buscar por Segmento" id="txtsegmento">
+            </div>
+            <div class="col-md-6 mb-3 p-2">
+                <label><b>Buscar por Cliente</b></label>
+                <input type="text" class="form-control" placeholder="Buscar por Cliente" id="txtcliente">
+            </div>
+            <div class="col-md-12">
+                 <button class="btn btn-dark" type="button" id="segmen" onclick="Buscar()">Buscar</button>
+                 <button class="btn btn-danger" type="button" id="limpiar" onclick="Limpiar()">Limpiar</button>
+            </div>
+       
+   
+    
+   
+</div>
+<div class="overflow-auto" style="max-height: 80vh" id="divTabla">
+
+</div>
+
+<script src="~/js/jquery.js"></script>
+<script src="~/js/datatable.js"></script>
+<script src="~/js/generic.js"></script>
+<script src="~/js/segmentossintimbrar.js"></script>
+

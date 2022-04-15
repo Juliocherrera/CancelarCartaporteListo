@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/datatable.css" />
+<script src="https://code.jquery.com/jquery-3.6.0.slim.js"
+            integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY="
+            crossorigin="anonymous"></script>
+<h1>Carga Masiva</h1>
+
+<fieldset class="mt-5">
+    <legend>Seleccionar archivo</legend>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <form method="post" id="frmMasiva" class="mb-3" enctype="multipart/form-data" >
+                    <div class="row">
+                        <div class="col-md-12">
+                            <input class="form-control ob" type="file" name="excelCargar" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col-md-2 text-center">
+                <button class="btn btn-success w-100" onclick="RepeDatos()"> <i class='fas fa-file-upload'></i> Cargar</button>
+            </div>
+        </div>
+       
+        <div class="row">
+            <div class="colo-md-12">
+                <div id="divTabla">
+
+               </div>
+            </div>
+        </div>
+    </div>
+    
+</fieldset>
+<div id="divLoading" style="display:none;background-image:url(../img/loading.gif);position:absolute;top:0;left:0;width:100%;height:100%;background-repeat:no-repeat;background-position:center;z-index:2000"></div>
+<script src="~/js/jquery.js"></script>
+<script src="~/js/datatable.js"></script>
+<script src="~/js/sweetalert.js"></script>
+<script src="~/js/generic.js"></script>
+<script src="~/js/ecmasiva.js"></script>
+
+

@@ -1,0 +1,21 @@
+﻿
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/datatable.css" />
+<h1>Listado general - Carta porte</h1>
+<div class="input-group mb-3">
+    <input type="text" class="form-control" placeholder="Buscar por Folio, UUID o Cliente" id="txtsegmento">
+    <button class="btn btn-dark" style="background-color:#212D5B !important" type="button" id="segmen" onclick="Buscar()">Buscar</button>
+    <button class="btn btn-danger" type="button" id="limpiar" onclick="Limpiar()">Limpiar</button>
+</div>
+<div class="overflow-auto" style="max-height: 80vh" id="divTabla">
+
+</div>
+
+<script src="~/js/jquery.js"></script>
+<script src="~/js/datatable.js"></script>
+<script src="~/js/generic.js"></script>
+<script src="~/js/cartaporte.js"></script>
+

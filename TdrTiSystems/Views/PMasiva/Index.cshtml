@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Carga Masiva</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form enctype="multipart/form-data" method="post" asp-controller="PMasiva" asp-action="ImportExcelFile">
+                <dl>
+                    <dt>
+                        <label>Selecciona un archivo:</label>
+                    </dt>
+                    <dd>
+                        <input class="form-control" type="file" name="FormFile" id="FormFile">
+
+                    </dd>
+                </dl>
+                <input class="btn btn-success" type="submit" value="Cargar" />
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        @if (ViewBag.Message != null)
+    {
+        <script type="text/javascript">
+        window.onload = function () {
+            Swal.fire({
+        position: 'top-end',
+        icon: 'success',
+        title: '@ViewBag.Message',
+        showConfirmButton: false,
+        timer: 5500
+    })
+
+            };
+        </script>
+    }
+    </div>
+</div>
+
+
+
+<script src="~/js/sweetalert.js"></script>
